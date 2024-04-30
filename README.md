@@ -1,1 +1,1 @@
-# Dune_Analytics_5
+# Energy Based Model for Generative AI
